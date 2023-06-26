@@ -1,6 +1,6 @@
 class Test {
 
-    public String main(String[] strs) {
+    public String commonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) {
             return "";
         }
